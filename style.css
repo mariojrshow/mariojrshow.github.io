@@ -25,13 +25,7 @@ h4 {
   }
 
   .tit {
-    background-color: brown;
+    background-color: rgb(15, 124, 119);
     color: white;
     font-style: italic;
-    text-align: center;
-  }
-
-  .tito {
-    text-align: center;
-
   }
