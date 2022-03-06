@@ -21,6 +21,11 @@ h4 {
   #rot {
     background-color: rgb(221, 218, 230);
     font-weight: bold;
+    width: 1000px;
+    height: 100%;
+    padding: 20px;
+    border-style: outset;
+    border-width: 10px;
 
   }
 
@@ -28,4 +33,9 @@ h4 {
     background-color: rgb(15, 124, 119);
     color: white;
     font-style: italic;
+    width: 1000px;
+    height: 100%;
+    padding: 20px;
+    border-style: outset;
+    border-width: 10px;
   }
